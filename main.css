@@ -1,0 +1,17 @@
+#body1{
+	background-image: ("https://pixy.org/src/5/57324.jpg")
+	background-repeat: no-repeat;	
+}
+#h1{
+	text-align: center;
+}
+#p1{
+	text-align:center; 
+}
+#h2{
+	text-align: center;
+}
+#img1{
+	display: block;
+	margin:auto;
+}
